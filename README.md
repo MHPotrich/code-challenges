@@ -1,4 +1,4 @@
-# code-challenges
+# Code Challenges
 Repository with my solutions for some code challenges.
 
 ## Json fixer
